@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
+C:\Users\danie\source\repos\Herramientas de programación 3\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
